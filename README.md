@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Virtual Piano - https://rolling-scopes-school.github.io/khaki01-JSFE2021Q1/virtual-piano/  
+Wildlife website - https://rolling-scopes-school.github.io/khaki01-JSFE2021Q1/wildlife/  
+Online Zoo -   
+
+
+
