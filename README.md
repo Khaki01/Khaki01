@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **kh.mukashev@gmail.com**
 
-- ⚡ Love : Calisthenics & Traveling to random places
+- ⚡ Love : Calisthenics & Travelling to random places
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
