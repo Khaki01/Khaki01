@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khaki</h1>
+<h1 align="center">Hi 👋, I'm Khaka</h1>
 <h3 align="center">Studying at KAIST, South Korea</h3>
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=khaki01&label=Profile%20views&color=0e75b6&style=flat"
